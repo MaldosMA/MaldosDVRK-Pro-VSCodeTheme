@@ -1,0 +1,41 @@
+{
+    "name": "maldosdvrk-pro",
+    "displayName": "MaldosDVRK Pro",
+    "description": "Dark Theme by MaldosMA",
+    "icon": "Images/MaldosDVRKPro-icon.png",
+    "author": "Mel Andrew Maldos",
+    "version": "1.0.6",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "publisher": "MaldosMA",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MaldosMA/MaldosDVRK-Pro-VSCodeTheme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "maldos",
+        "mel andrew",
+        "maldosma",
+        "dvrk",
+        "dvrk pro",
+        "pro",
+        "dark"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MaldosDVRK Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MaldosDVRK Pro-color-theme.json"
+            }
+        ]
+    },
+    "markdown" : "github",
+    "homepage": "https://github.com/MaldosMA/MaldosDVRK-Pro-VSCodeTheme/blob/main/README.md"
+}
